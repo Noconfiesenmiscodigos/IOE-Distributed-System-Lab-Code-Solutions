@@ -1,9 +1,9 @@
 //2. Write a program to simulate the functioning of vector clock in 'C’.
 
-#include<stdio.h>
-#include<conio.h>
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <conio.h>
+#include <stdio.h>
+#include <stdlib.h>
 long *p1(int i,long *comp);
 long *p2(int i,long *comp);
 long *p3(int i,long *comp);
